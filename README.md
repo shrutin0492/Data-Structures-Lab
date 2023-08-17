@@ -1,6 +1,6 @@
 # Data-Structures-Lab
 
-# LIST OF LAB EXERCISES
+# List of Programs
 
 1.Write a program to add, subtract, multiply, divide and find the modulus for two integers using user defined type
 functions with return type.
