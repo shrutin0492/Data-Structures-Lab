@@ -2,8 +2,7 @@
 
 # List of Programs
 
-1.Write a program to add, subtract, multiply, divide and find the modulus for two integers using user defined type
-functions with return type.
+1.Write a program to add, subtract, multiply, divide and find the modulus for two integers using user defined functions with return type.
 
 2. Write a program to find the sum of digits of a number and print the reverse of the number using recursin.
 
