@@ -1,10 +1,7 @@
 # Data-Structures-Lab
-
-# List of Programs
-
 1.Write a program to add, subtract, multiply, divide and find the modulus for two integers using user defined functions with return type.
 
-2. Write a program to find the sum of digits of a number and print the reverse of the number using recursin.
+2. Write a program to find the sum of digits of a number and print the reverse of the number using recursion.
 
 3. Write a program to add and multiply two matrices using pointers.
 
